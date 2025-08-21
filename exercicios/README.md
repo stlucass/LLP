@@ -1,4 +1,4 @@
-# Exercícios
+# Exercícios - Lucas Castro (2º Semestre)
 
 ---
 
