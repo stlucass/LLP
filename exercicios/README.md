@@ -3,7 +3,7 @@
 ---
 
 ## EXERCÍCIO 1
-[Baixar planilha Excel](./dados.xlsx)
+[Baixar planilha Excel](exercicio1.xlsx)
 
 
 ---
