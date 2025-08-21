@@ -29,5 +29,6 @@ Doodle selecionado: <br>
 ---
 
 ## EXERCÍCIO 5
-Vídeo selecionado: [https://youtu.be/WXsD0ZgxjRw](https://youtu.be/WXsD0ZgxjRw) <br>
-![Imagem 1 do exercicio 5](https://exemplo.com/url-do-video.png)
+Vídeo selecionado: APIs for Beginners - How to use an API (Full Course / Tutorial) <br> 
+[https://youtu.be/WXsD0ZgxjRw](https://youtu.be/WXsD0ZgxjRw) <br>
+![Imagem 1 do exercicio 5](/images/img1_ex5.png)
